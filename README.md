@@ -1,5 +1,8 @@
 # MachineLearningTasks2020
-This is the repository for the Tasks assessment for Machine Learning and Statistics at GMIT 2020.
+
+    This repository contains my submission for the Machine Learning and Statistics Tasks 2020 Project as part of the requirement for the for the Machine Learning and Statistics module at GMIT as part of the Higher Diploma in Computing and Data Analytics programme.
+This repository contains the Jupyter notebook Tasks.ipynb which contains the main body of the work.
+There are four separate tasks in the notebook which are laid out in order from Task 1 to Task 4. Each task is self-contained and can be viewed or run independent of the other tasks in the same notebook. The four tasks were assigned at various dates in October and November 2020.
 
 ## How to download this repository
 
@@ -11,6 +14,18 @@ Go to the URL for the repository at https://github.com/angela1C/MachineLearningT
 - Python 3 was used to develop this project and is needed to run the code in the notebook. Python 3 can be downloaded from the official Python website at https://www.python.org/downloads/. It can also be downloaded using the Anaconda Python distribution at https://www.anaconda.com/distribution/.
 
 - The Jupyter Notebook tips-project.ipynb itself can be viewed directly in this GitHub repository in a browser without Python 3 being installed. On occasion the Jupyter Notebook may not render correctly in which case the url https://github.com/angela1C/MachineLearningTasks2020 can be copied and pasted in to the Jupyter nbviewer at https://nbviewer.jupyter.org where you enter the location of a Jupyter Notebook and click Go to have it rendered there.
+
+The following Python packages were used for this project:
+- NumPy
+- Pandas
+- Seaborn
+- Jupyter Notebook
+- Sci-kit Learn
+- YellowBrick
+
+These packages can be installed if necessary on the command line using `pip install <package name>`. Most of them come with the Anaconda distribution of Python 3. I did have to install the YellowBrick package.
+
+
 ---
 ## Task 1
 October 5th, 2020:
@@ -44,5 +59,10 @@ Research these Excel functions, writing a note in a Markdown cell about the diff
 Use scikit-learn to apply k-means clustering to Fisher’s famous Iris data set. You will easily obtain a copy of the data set on- line. Explain in a Markdown cell how your code works and how accurate it might be, and then explain how your model could be used to make predictions of species of iris.
 
 ---
-# Task 2 References
+# References
+
+The references used in the project are noted throughout the notebook in the section in which they occur. All references for the four tasks are listed again at the end of the notebook. Any quotes or direct references are noted specifically in the task in which they occur. 
+Resources that were used to gain an understanding of some of the topics involved but were not used directly in the notebook are also listed.
+
+
 [4] Wikipedia contributors, “Chi-squared test — Wikipedia, the free encyclopedia,” 2020, [Online; accessed 1-November-2020]. [Online]. Available: https://en.wikipedia. org/w/index.php?title=Chi-squared test&oldid=983024096
