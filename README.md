@@ -13,15 +13,18 @@ Go to the URL for the repository at https://github.com/angela1C/MachineLearningT
 
 - Python 3 was used to develop this project and is needed to run the code in the notebook. Python 3 can be downloaded from the official Python website at https://www.python.org/downloads/. It can also be downloaded using the Anaconda Python distribution at https://www.anaconda.com/distribution/.
 
-- The Jupyter Notebook tips-project.ipynb itself can be viewed directly in this GitHub repository in a browser without Python 3 being installed. On occasion the Jupyter Notebook may not render correctly in which case the url https://github.com/angela1C/MachineLearningTasks2020 can be copied and pasted in to the Jupyter nbviewer at https://nbviewer.jupyter.org where you enter the location of a Jupyter Notebook and click Go to have it rendered there.
+- The Jupyter Notebook tasks.ipynb itself can be viewed directly in this GitHub repository in a browser without Python 3 being installed. On occasion the Jupyter Notebook may not render correctly in which case the URL https://github.com/angela1C/MachineLearningTasks2020 can be copied and pasted in to the Jupyter nbviewer at https://nbviewer.jupyter.org where you enter the location of a Jupyter Notebook and click Go to have it rendered there.
 
 The following Python packages were used for this project:
-- NumPy
-- Pandas
-- Seaborn
-- Jupyter Notebook
-- Sci-kit Learn
-- YellowBrick
+- [Python](https://www.python.org)
+- [Jupyter Notebook](https://jupyter.readthedocs.io/en/latest/index.html)
+- [Python Pandas Library](https://pandas.pydata.org). A fast, powerful, flexible and easy to use open source data analysis and manipulation tool.
+- [Scikit-learn](https://scikit-learn.org/stable/) for Machine Learning in Python
+- [SciPy](https://docs.scipy.org/doc/scipy/reference/stats.html). A Python-based ecosystem of open-source software for mathematics, science, and engineering. 
+- [NumPy](https://numpy.org). The fundamental package for scientific computing with Python
+- [Matplotlib](https://matplotlib.org). A comprehensive library for creating static, animated, and interactive visualizations in Python.
+
+- [Yellowbrick: Machine Learning Visualisation](https://www.scikit-yb.org/en/latest/)
 
 These packages can be installed if necessary on the command line using `pip install <package name>`. Most of them come with the Anaconda distribution of Python 3. I did have to install the YellowBrick package.
 
@@ -64,5 +67,3 @@ Use scikit-learn to apply k-means clustering to Fisher’s famous Iris data set.
 The references used in the project are noted throughout the notebook in the section in which they occur. All references for the four tasks are listed again at the end of the notebook. Any quotes or direct references are noted specifically in the task in which they occur. 
 Resources that were used to gain an understanding of some of the topics involved but were not used directly in the notebook are also listed.
 
-
-[4] Wikipedia contributors, “Chi-squared test — Wikipedia, the free encyclopedia,” 2020, [Online; accessed 1-November-2020]. [Online]. Available: https://en.wikipedia. org/w/index.php?title=Chi-squared test&oldid=983024096
